@@ -1,0 +1,22 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+Summarize this text in 50 words like I am a 5th grader: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate.
+
+#### Response from Falcon-7b: 
+The Industrial Revolution, also called the Age of Manufacture, was a period
+when mechanization and mass production of goods began to replace craft
+production. The Industrial Revolution was triggered primarily by the invention
+of the steam engine, but it also included advances in other technologies, such as
+machine tools, electricity, and mass communication. 

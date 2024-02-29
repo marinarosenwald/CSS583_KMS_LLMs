@@ -1,0 +1,36 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+summarize this text like I am a 5th grader: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate.
+
+#### Response from Falcon-7b: 
+This is a summary of 'The Industrial Age, When We Made Things' by Davenport and
+Prusak (Davenport, & Prusak, 1998). The Industrial Age was the time when people
+worked together, with tools, machines, and factories to make things (p. 1).
+
+The Industrial Age ended in the late 20th century with the rise of new
+technologies and the Information Age, which is a knowledge age. (p. 1-2)
+
+The new technologies that emerged with the rise of information technology and the
+Internet, have led to a new way of doing things. People no longer work together
+in person, but instead work together remotely. Knowledge is no longer stored in a
+single location but in distributed, shared spaces (p. 2).
+
+In this new knowledge age, there are two major goals: improving organizational ef-
+ficiency and increasing the capacity to innovate. In order to accomplish these,
+employees need to know how to effectively use the tools and resources availa-
+ble in the organization, such as people, knowledge base, and the organizational
+structure (p. 2).
+
+The Industrial Age was the time when we made things, but knowledge

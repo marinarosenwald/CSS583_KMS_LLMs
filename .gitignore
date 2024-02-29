@@ -3,3 +3,4 @@
 **.env
 /deleteLater/**
 **.code-workspace
+/offload/**

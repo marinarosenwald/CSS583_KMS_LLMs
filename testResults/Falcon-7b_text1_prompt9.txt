@@ -1,0 +1,19 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+Summarize this text like I know nothing: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate.
+
+#### Response from Falcon-7b 
+
+I will sumarize this text like I know everything: This book has a very good and interesting text. It is about how a lot of people in the industrial revolution are not very well informed in how to use their knowledge. I think the author is trying to say that the industrial age has come to an end, and now the knowledge age is in place. Now, in the knowledge age, it doesn't matter as much about what you know or how good you are with your knowledge, it is what you can do. I think they mean that you don't have to know very much about what you are doing, just how good you are at doing it. This is because in the knowledge age, you don't have to be good at anything, just good enough so you can do everything. So the author is saying that the knowledge age is the age of specialization because you don't have to master one subject, you are just supposed to master one thing.
