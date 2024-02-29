@@ -22,3 +22,7 @@ venv instruction:
     exit venv:
         deactivate
 '''
+
+''' 
+pip3 install --upgrade --no-deps --force-reinstall --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
+'''
