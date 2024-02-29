@@ -1,0 +1,27 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+Reiterate the key points to me from this piece of text: A good definition of KM should incorporate both the capturing and storing of
+knowledge perspective, together with the valuing of intellectual assets. An example
+definition is the following:
+Knowledge management is the deliberate and systematic coordination of an organization's
+people, technology, processes, and organizational structure to add value through reuse and
+innovation. This is achieved through the promotion of creating, sharing, and applying knowl-
+edge and through the feeding of valuable lessons learned and best practices into corporate
+memory to foster continued organizational learning.
+When asked, most executives often state that their greatest asset is the knowledge held
+by their employees. "When employees walk out the door, they take valuable organiza-
+tional knowledge with them” (Lesser & Prusak, 2001, p. 1). Managers also invariably
+add that they have no idea how to manage this knowledge! Identifying the knowledge
+that is of value and also at risk of being lost to the organization through retirement,
+turnover, and competition is essential. The best way to retain valuable knowledge is
+to identify intellectual assets and then ensure legacy materials are produced, and sub-
+sequently stored in such a way as to make their future retrieval and reuse as easy as
+possible (Stewart, 2000). These tangible by-products need to flow from individual to
+individual, between members of a community of practice, and of course, back to the
+organization itself, in the form of lessons learned, best practices, and corporate memory.
+
+#### Response from Falcon-7b: 
+    Knowledge management is a process of creating, organizing and using information and knowledge in the best way, to make sure that all the information and data needed by a company are available at the right time and at the right place. The knowledge is the result of the experiences that people have in their work. These experiences are not only the experience of employees but also the experience of customers and suppliers. It is also the knowledge that is stored in the minds of people within the company and the knowledge that is stored in written documents and databases within the company as well as the knowledge that is stored as tacit knowledge

@@ -1,0 +1,91 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+Reiterate the key points to me from this piece of text like I know nothing: A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+-Kahlil Gibran (1883-1931)
+This chapter describes the major processes involved in KM: capturing, creating, codi-
+fying, sharing, accessing, applying, and reusing knowledge within and between orga-
+nizations. It presents major KM processes from Bukowitz and Williams (2000), Carlile
+and Rebentisch (2003), Evans, Dalkir, and Bidian (2015), McElroy (2003), Meyer and
+Zack (1996), Wiig (1993), and Xu et al. (2010). A comprehensive review of KM pro-
+cess frameworks by Heisig (2009) is included. A synthesis of these approaches is then
+developed as a framework for following the path information takes to become a valu-
+able knowledge asset for a given organization. This chapter concludes with a discus-
+sion of the strategic and practical implications of managing knowledge throughout
+the KM life cycle. 
+Learning Objectives
+1. Describe how valuable individual, group, and organizational knowledge is cap-
+tured, created, codified, shared, accessed, applied, and reused throughout the KM
+cycle.
+2. Compare and contrast major KM processes: Do some processes share a label with
+another process? Are some distinct processes?
+3. Define the major KM processes and provide concrete examples of how each addresses
+efficiency goals through reuse. What are some examples of how they address trans-
+formational goals through innovation?
+4. Identify the major challenges and benefits of each KM process.
+5. Describe the additional challenges posed by global or distributed KM processes.
+
+Introduction
+As with a generally accepted definition of KM, consensus is lacking for terms to describe
+the major steps in the KM cycle. Table 2.1 summarizes the major terms found in the
+KM literature. However, on closer inspection, the terms overlap in the steps involved
+in a KM cycle. Heisig (2009) comprehensively compared 160 KM frameworks. He found
+that diverse terms are used, although common underlying categories for KM processes
+exist, such as share, create, use, store, identify, and acquire. The frameworks discussed
+in this chapter meet the following criteria:
+They have been implemented and validated in real-world settings.
+They are comprehensive regarding steps found in the KM literature.
+They include detailed descriptions of the KM processes involved in each of the steps.
+KM cycle approaches from Meyer and Zack (1996), Bukowitz and Williams (2000),
+McElroy (1999, 2003), Wiig (1993), Carlile and Rebentisch (2003), Evans, Dalkir, and
+Bidian (2015), and Xu et al. (2010) are described in greater detail in this chapter. They
+were selected as the most relevant, and each one builds on the previous models by
+contributing one or more additional components. The chapter concludes with a sum-
+mary and aggregation of all key components in the KM cycle 
+Major Approaches to the KM Cycle
+Meyer and Zack
+The Meyer and Zack (1996) KM cycle is derived from work on the design and develop-
+ment of information products. Information products are, broadly, any information
+sold to internal or external customers such as databases, news synopses, and customer
+profiles. This approach provides several useful analogies, such as the notion of a prod-
+uct platform (the knowledge repository) and of an information process platform (the
+knowledge refinery), to emphasize that value-added processes are required to leverage
+the knowledge of an organization. The KM cycle consists primarily of creating a higher-
+value-added knowledge product at each stage of knowledge processing. For example, a
+basic database may represent an example of knowledge that has been created. Value can
+then be added by extracting trends from this data. The original information has been
+repackaged to now provide trend analyses useful for organizational decision making.
+In Meyer and Zack's approach, the KM processes comprise the technologies, facili-
+ties, and processes for manufacturing products and services. The content is unique for
+each type of business or organization. For example, banks have content relating to
+personal and commercial accounts, insurance companies hold information on poli-
+cies and claims, and pharmaceutical companies have a large body of scientific and
+marketing knowledge accumulated for products under design or currently sold. The
+information unit is singled out as the formally defined atom of information to be
+stored, retrieved, and manipulated. This notion of a unit of information is a critical
+concept that should be applied to knowledge items as well. A focus at the level of a
+knowledge object distinguishes KM from document management. Whereas a docu-
+ment management system stores, manipulates, and retrieves documents as integral
+wholes, KM can easily identify, extract, and manage several different knowledge items
+(sometimes referred to as knowledge objects) within a document.
+The knowledge repository often forms the first kernel of an organizational or corpo-
+rate memory. A sample repository for a railway administration organization is shown
+in figure 2.1. Figures 2.2 and 2.3 summarize the major stages in the Meyer and Zack
+cycle.
+Refinement is the major contribution of this cycle. This may be physical (e.g.,
+migrating from one medium to another) or logical (restructuring, relabeling, indexing,
+and integrating). Refining also refers to cleaning up (e.g., sanitizing content so as to
+ensure complete anonymity of sources and key players involved) or standardizing (e.g.,
+conforming to templates of a best practice or lesson learned as used within a particu-
+lar organization). The repository and the refinery together enable the management of 
+valuable knowledge of a firm. Although not explicitly described in the Meyer and Zack cycle, 
+management includes having to continually renew the repository and the refinary to avoid obsolescence. 
+Renewal should be added to the cycle diagram in the form of a feedback loop that involves rethinking 
+the basic content and structure of the repository to decide whether different, newer products or 
+repackaging is required. This may mean greater depth of an analysis, an updated report, greater 
+integration, more sophisticated cross-linking, or greater standardization of content.
+
+
+#### Response from Falcon-7b has
