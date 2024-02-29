@@ -46,4 +46,4 @@ class BartLarge:
             max_length=130, 
             min_length=30,
             do_sample=False)
-        return response
+        return response[0]['summary_text']

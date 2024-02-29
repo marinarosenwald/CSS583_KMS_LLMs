@@ -12,7 +12,7 @@ save_path = BART_LARGE["save_path"]
 
 #Load the model and store it 
 tokenizer = AutoTokenizer.from_pretrained(hf_model_path)
-model = AutoModelForSeq2SeqLM.from_pretrained(hf_model_path, return_dict=True, trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto",)
+model = AutoModelForSeq2SeqLM.from_pretrained(hf_model_path, return_dict=True, trust_remote_code=True, torch_dtype=torch.bfloat16,)
 
 if torch.backends.mps.is_available():
     model.to("cpu") # fix for using apple M1 chip

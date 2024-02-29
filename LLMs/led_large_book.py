@@ -27,7 +27,7 @@ class LEDLargeBook:
         self.local_model = AutoModelForSeq2SeqLM.from_pretrained(self.save_path,
                                                            return_dict=True,
                                                            trust_remote_code=True,
-                                                           device_map="auto",
+                                                        #    device_map="auto",
                                                            torch_dtype=torch.bfloat16)
         if torch.cuda.is_available():
              self.local_model.to("cuda")
@@ -55,4 +55,4 @@ class LEDLargeBook:
             num_beams=4,
             early_stopping=True
         )
-        return response
+        return response[0]['summary_text']

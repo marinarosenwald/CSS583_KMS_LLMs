@@ -27,7 +27,7 @@ Falcon7b()
 Vicuna7b()
 '''
 
-model = FalconSai()
+model = LEDLargeBook()
 
 modelName = model.getName()
 textFolder = "./BookText/"
