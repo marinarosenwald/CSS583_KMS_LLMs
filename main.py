@@ -3,6 +3,7 @@ from LLMs.bart_large import BartLarge
 from LLMs.led_large_book import LEDLargeBook
 from LLMs.falcon_7b_instruct import Falcon7b
 from LLMs.vicuna_7b import Vicuna7b
+from LLMs.llama2_quant import Llamma7b
 import os
 
 def getText(folder_path):
@@ -27,7 +28,7 @@ Falcon7b()
 Vicuna7b()
 '''
 
-model = LEDLargeBook()
+model = Llamma7b()
 
 modelName = model.getName()
 textFolder = "./BookText/"
