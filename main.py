@@ -26,9 +26,10 @@ BartLarge()
 LEDLargeBook()
 Falcon7b()
 Vicuna7b()
+Llamma7b()
 '''
 
-model = LEDLargeBook()
+model = Llamma7b()
 
 modelName = model.getName()
 textFolder = "./BookText/"

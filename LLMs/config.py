@@ -31,5 +31,5 @@ LED_LARGE_BOOK = {
 LLAMA2 = {
     "model_name": "Llamma2",
     "hf_model_path": "TheBloke/Llama-2-7B-Chat-GGML",
-    "save_path": "/Users/njewel/Desktop/quant_llm/llama-2-7b-chat.ggmlv3.q4_1.bin",
+    "save_path": "/Users/marirosenwald/CSS583_KMS_LLMS/deleteLater/llama/llama-2-7b-chat.ggmlv3.q4_1.bin",
 }
