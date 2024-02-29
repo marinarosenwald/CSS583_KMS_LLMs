@@ -1,0 +1,29 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+Summarize this text in 50 words like I know nothing: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate.
+
+#### Response from Falcon-7b:
+I know very little about this book and the author, but I have read the first few pages.  The book is about the industrial revolution and how
+it has affected society, business practice and our economy.  The author talks about how the industrial revolution is a key turning point
+in the history of the world.  It was the event that allowed for the rise of industry and the modern economy.  
+
+#### Response from Google:
+I know very little about your book and the author.  
+
+#### Response from Amazon:
+I know very little about your book and the author.  
+
+#### Response from Yahoo Answers:
+I know little about how to make an effective response to this text, but I did find some interesting things.

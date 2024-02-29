@@ -1,0 +1,44 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+summarize this text: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate.
+
+#### Response from Falcon-7b: 
+    The industrial age, when we made things, has made way for the knowledge age, when
+    organizational success depends on what it collectively knows, how efficiently it uses
+    what it knows, and how quickly it acquires and uses new knowledge.
+    The most valuable benefits from KM arise from sharing knowledge with current
+    fellow employees and with future (likely unknown) employees. Sharing knowledge
+    with current fellow employees ensures it moves around the organization so
+    everyone can benefit from best practices and lessons learned.
+
+
+#### User:
+summarize this text: The main idea of this article is to demonstrate how to use knowledge
+management (KM) to improve performance and productivity. This article will be
+explained as a case study in which I will discuss the KM strategies that were
+implemented.
+
+#### Response from F7B: 
+    The main idea of this article is to demonstrate how to use knowledge
+    management (KM) to improve performance and productivity.
+    This article will be explained as a case study in which I will discuss the KM
+    strategies that were implemented.
+    
+#### User:
+This is a 5-10 sentence summary of the main points from the article.
+
+#### Response from Falcon-7b: 
+    KM is very important in an organization, and is very important to the future.
+    There are many benefits that can be reaped

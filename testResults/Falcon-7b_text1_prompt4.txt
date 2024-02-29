@@ -1,0 +1,21 @@
+#### System: 
+        You are tasked with the job of sumarizing text books for 5th grade students.
+        Do as good of a sumarization as you can.
+        
+#### User: 
+Summarize this text in 100 words like I am a 5th grader: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate.
+
+#### Response from Falcon-7b: 
+        1) The industrial age has made way (made a shift) to the knowledge (knowledge-age), when organizational (corporate) success depends on, how efficiently it (organization) uses (the knowledge) and the new knowledge (information) is acquired (and used) quickly by the organization. The most valuable (benefits) from the knowledge management come from the sharing (sharing of information / knowledge) with current employees and to (for) future (unknown) employees to enable them benefit from existing best practices/lesson learned/success stories/lessons-learned.
+
+#### Response from Falcon-7a:
+        2). KM is not a single activity, but rather a process that includes many activities. The goal is to help people work more intelligently, and not to automate their thinking. The key is to help people make the best decisions by sharing information. The knowledge sharing process begins by identifying knowledge (the information/data) that is important in the organization and to make sure the information is (is not) stored in the right place (place of use) so that the information is available to the person (or persons) who need it. KM is used to enable an organization to make the best possible
