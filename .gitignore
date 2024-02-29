@@ -3,3 +3,4 @@
 **.env
 /testResults/**
 /deleteLater/**
+**.code-workspace

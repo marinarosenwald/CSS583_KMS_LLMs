@@ -13,6 +13,9 @@ save_path = LED_LARGE_BOOK["save_path"]
 tokenizer = AutoTokenizer.from_pretrained(hf_model_path)
 model = AutoModelForSeq2SeqLM.from_pretrained(hf_model_path, return_dict=True, trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto",)
 
+if torch.backends.mps.is_available():
+    model.to("cpu") # fix for using apple M1 chip
+    
 #Save the model and the tokenizer in the local directory specified earlier
 tokenizer.save_pretrained(save_path)
 model.save_pretrained(save_path)
