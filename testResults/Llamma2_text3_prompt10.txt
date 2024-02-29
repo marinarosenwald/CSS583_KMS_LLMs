@@ -1,0 +1,7 @@
+The main points from the given text are as follows:
+
+1. KM (Knowledge Management) is the process of capturing, creating, coding, sharing, accessing, applying, and reusing knowledge within and between organizations.
+2. There are several major processes involved in KM, including capturing, creating, coding, sharing, accessing, applying, and reusing knowledge. These processes were discussed in detail in the text, with examples of how each process addresses efficiency goals through reuse and innovation.
+3. The text highlights the importance of managing knowledge throughout the KM life cycle, which includes capturing, creating, coding, sharing, accessing, applying, and reusing knowledge.
+4. The text also discusses the strategic and practical implications of managing knowledge throughout the KM life cycle, including the benefits of each process and the challenges posed by global or distributed KM processes.
+5. Finally, the text provides a comprehensive overview of the major approaches to the KM cycle, including Meyer and Zack's approach, which emphasizes the importance of refinement in the KM process.
