@@ -42,12 +42,12 @@ class Falcon7b:
         return self.model_name
 
     def run(self, input):
-        system = f"""
-        You are tasked with the job of sumarizing text books for 5th grade students.
-        Do as good of a sumarization as you can.
-        """
-        prompt = f"#### System: {system}\n#### User: \n{input}\n\n#### Response from {self.model_name}"
-        falcon_response = self.pipeline(prompt,
+        # system = f"""
+        # You are tasked with the job of sumarizing text books for 5th grade students.
+        # Do as good of a sumarization as you can.
+        # """
+        # prompt = f"#### System: {system}\n#### User: \n{input}\n\n#### Response from {self.model_name}"
+        falcon_response = self.pipeline(input,
                                     max_length=500,
                                     do_sample=True,
                                     top_k=10,

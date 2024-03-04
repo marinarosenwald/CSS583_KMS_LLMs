@@ -1,0 +1,30 @@
+Summarize this text in 50 words like I know nothing: A good definition of KM should incorporate both the capturing and storing of
+knowledge perspective, together with the valuing of intellectual assets. An example
+definition is the following:
+Knowledge management is the deliberate and systematic coordination of an organization's
+people, technology, processes, and organizational structure to add value through reuse and
+innovation. This is achieved through the promotion of creating, sharing, and applying knowl-
+edge and through the feeding of valuable lessons learned and best practices into corporate
+memory to foster continued organizational learning.
+When asked, most executives often state that their greatest asset is the knowledge held
+by their employees. "When employees walk out the door, they take valuable organiza-
+tional knowledge with them” (Lesser & Prusak, 2001, p. 1). Managers also invariably
+add that they have no idea how to manage this knowledge! Identifying the knowledge
+that is of value and also at risk of being lost to the organization through retirement,
+turnover, and competition is essential. The best way to retain valuable knowledge is
+to identify intellectual assets and then ensure legacy materials are produced, and sub-
+sequently stored in such a way as to make their future retrieval and reuse as easy as
+possible (Stewart, 2000). These tangible by-products need to flow from individual to
+individual, between members of a community of practice, and of course, back to the
+organization itself, in the form of lessons learned, best practices, and corporate memory.
+The key to successful knowledge management is the capture, storage, and dissemination
+of this knowledge and the application of lessons learned. This is done through the
+creation of a culture of sharing and learning (Senge et al., 1990).
+The KM process includes the following steps:
+The process of knowledge management can also be described in six steps (Stewart, 2000):
+Knowledge management (KM) is defined as a set of activities designed to identify,
+organize, capture, disseminate, create, and apply knowledge to solve problems and add
+value to the organization. The KM process includes the following steps:
+Knowledge creation: This refers to the generation of new information. It includes the
+processes of creating and generating new knowledge within the organization. Knowledge
+sharing: This refers to the sharing

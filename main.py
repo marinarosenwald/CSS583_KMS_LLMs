@@ -29,11 +29,11 @@ Vicuna7b()
 Llamma7b()
 '''
 
-model = Llamma7b()
+model = Falcon7b()
 
 modelName = model.getName()
 textFolder = "./BookText/"
-resultsFolder = "./testResults"
+resultsFolder = "./testResults/SecondRun"
 promptsFolder = "./Prompts/"
 promptsDict = getText(textFolder)
 promptsInit = {"":""}

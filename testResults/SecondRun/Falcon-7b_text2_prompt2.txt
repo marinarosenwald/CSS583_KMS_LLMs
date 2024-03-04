@@ -1,0 +1,31 @@
+summarize this text like I am a 5th grader: A good definition of KM should incorporate both the capturing and storing of
+knowledge perspective, together with the valuing of intellectual assets. An example
+definition is the following:
+Knowledge management is the deliberate and systematic coordination of an organization's
+people, technology, processes, and organizational structure to add value through reuse and
+innovation. This is achieved through the promotion of creating, sharing, and applying knowl-
+edge and through the feeding of valuable lessons learned and best practices into corporate
+memory to foster continued organizational learning.
+When asked, most executives often state that their greatest asset is the knowledge held
+by their employees. "When employees walk out the door, they take valuable organiza-
+tional knowledge with them” (Lesser & Prusak, 2001, p. 1). Managers also invariably
+add that they have no idea how to manage this knowledge! Identifying the knowledge
+that is of value and also at risk of being lost to the organization through retirement,
+turnover, and competition is essential. The best way to retain valuable knowledge is
+to identify intellectual assets and then ensure legacy materials are produced, and sub-
+sequently stored in such a way as to make their future retrieval and reuse as easy as
+possible (Stewart, 2000). These tangible by-products need to flow from individual to
+individual, between members of a community of practice, and of course, back to the
+organization itself, in the form of lessons learned, best practices, and corporate memory.
+In this section, let's take a deeper look at this knowledge management (KM) process and
+then apply it to the case.
+The KM Process
+To better understand the KM process, let's break it into three stages:
+1. Knowledge capture. This is the process by which new knowledge is acquired. It can
+take many forms, including brainstorming, interviews, surveys, and focus groups. The
+knowledge can be captured in a number of ways, including through a formal document-
+ed knowledge base, through the organization's processes or products, or through the
+knowledge of people.
+2. Knowledge sharing. This is the process by which knowledge is disseminated, in a
+form that is easy to understand and apply. Sharing knowledge can happen in a
+number of ways, including through formal

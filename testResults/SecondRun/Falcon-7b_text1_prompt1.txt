@@ -1,0 +1,31 @@
+summarize this text: The industrial age, when we made things, has made way for the knowledge age, when
+organizational success depends on what it collectively knows, how efficiently it uses
+what it knows, and how quickly it acquires and uses new knowledge (Davenport & Prusak,
+1998). The most valuable benefits from KM arise from sharing knowledge with current
+fellow employees and with future (often unknown) employees. Sharing knowledge
+with current fellow employees ensures it moves around the organization so everyone
+can benefit from best practices (adopt newer, better ways of doing things) and lessons
+learned (avoid repeating things that failed).
+KM, through knowledge use and reuse, has two major goals: improving organiza-
+tional efficiency and increasing the organizational capacity to innovate. KM is also an
+instrument for competitive differentiation by providing the ability to create new value
+for the firm, its customers, and the society at large. Knowledge management
+enables an organization to learn and innovate from the knowledge of its members (and
+the knowledge of its members’ members, and the knowledge of its members’
+members’ members). This knowledge can be applied to solve problems and to create
+new knowledge. This knowledge can come from internal members or from outside
+experts. The internal knowledge, if well-managed, can be a significant source of
+knowledge for the organization (Davenport & Prusak, 1998).
+Knowledge management systems are often thought of as information systems;
+however, knowledge management systems are not limited to computer-based systems (for
+example, a database, a knowledge-sharing platform, a knowledge portal, knowledge
+management system, and so on). In fact most of the current KM systems were developed
+in the 1990s, before the widespread use of the Internet and the World Wide Web,
+when computer-based technology was much less developed and less common than now.
+Therefore, the knowledge management systems discussed in this book are mostly
+not computer-based systems, and the systems can be classified as follows:
+Computer-based systems. Knowledge management systems that are based on
+the use of computers. The most common knowledge management systems of this type are
+intranet, extranet, and the Web.
+Paper-based systems. Knowledge management systems that are based primarily on
+paper records and other noncomputer-based
